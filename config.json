@@ -3,7 +3,7 @@
     "ownerName": "IlhamGanteng", 
     "botName": "ZxynnBotz",
     "footer": "© ZxynnBotz | IlhamGanteng", 
-    "sessionName": "Fangz", //Jangan di ganti biar ga eror 
+    "sessionName": "session", //Jangan di ganti biar ga eror 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
     "group": "https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx",
