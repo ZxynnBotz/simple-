@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6288214989352@s.whatsapp.net", 
+    "ownerName": "IlhamGanteng", 
+    "botName": "ZxynnBotz",
+    "footer": "© ZxynnBotz | IlhamGanteng", 
+    "sessionName": "Fangz", //Jangan di ganti biar ga eror 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx",
+    "yootube": "https://youtube.com/channel/UCCYaHlfSbSL23Y6pq-y-d-g",
+    "igCookie": "csrftoken=Yj80cFn0zMn6svtMdvKTBcMzMwWPsQzx; sessionid=53767158422%3A4hXJOZ2NBfcF2f%3A10; ds_user_id=53767158422;",
+ 
+    "limitCount": 50,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© ZxynnBotz",
+        "author": "IlhamGanteng"
+    }
+}
